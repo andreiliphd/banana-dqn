@@ -46,7 +46,7 @@ Install all the dependencies.
 
 2. Place the file in the directory of GitHub repository. 
 
-## Installation
+## Usage
 
 You will train an agent to collect bananas in a large, square world.  
 
@@ -57,6 +57,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - **`1`** - move backward.
 - **`2`** - turn left.
 - **`3`** - turn right.
+Environement is considered solved if average of 100 episodes is more than 13.
 
 ---
 
