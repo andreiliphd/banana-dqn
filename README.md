@@ -64,6 +64,8 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - **`3`** - turn right.
 Environement is considered solved if average of 100 episodes is more than 13.
 
+Running a script is not a problem. Just execute it in sequential order.
+
 ---
 
 ## License
