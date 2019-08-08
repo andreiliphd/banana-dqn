@@ -17,7 +17,12 @@ Banana is deep Q learning implementation of [DQN paper](https://storage.googleap
 
 ## Screenshot
 
-![Carrot - gradient and parameters analysis tool for PyTorch](https://github.com/andreiliphd/carrot/blob/master/images/carrot_demo.gif)
+![Banana - solving environment](https://github.com/andreiliphd/banana-dqn/blob/master/pictures/video_gif.gif)
+
+## Loss
+
+![Banana - loss](https://github.com/andreiliphd/banana-dqn/blob/master/pictures/download.png)
+
 
 
 ---
