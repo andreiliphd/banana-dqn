@@ -1,7 +1,7 @@
 # Banana - reinforcement learning DQN implementation
 ============
 
-Banana is deep Q learning implementation of [DQN paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+Banana is a deep Q learning implementation of [DQN paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 
 ---
 
@@ -49,7 +49,7 @@ Install all the dependencies.
 
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
-2. Place the file in the directory of GitHub repository. 
+2. Place the file in the directory of GitHub repository files. 
 
 ## Usage
 
